@@ -9,6 +9,8 @@
 
 ## OCR 
 - [Mask Textspotter](./ocr/mask_textspotter)
+- [RPnet](./ocr/RPnet)
+- [pp-ocr](./ocr/paddlepaddle_ocr)
 
 ## Knowledge Distillation
 
