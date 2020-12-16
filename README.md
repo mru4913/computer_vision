@@ -16,7 +16,7 @@
 
 ## Knowledge Distillation
 
-## Module 
+## Others 
 
 ## Utils
 
