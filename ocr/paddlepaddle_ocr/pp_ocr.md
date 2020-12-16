@@ -14,7 +14,7 @@
   - Cosine Learning Rate Decay: improve accuracy and fasten convergence 
   - Learning Rate Warm-up: stablize training process 
   - FPGM Prinner: reduce model size *Pruning every layer uniformly usually leads to significant performance degradation.* (`#TODO How?`)
-  - 
+  
 ![](./img/pruning.png)
 
 - Direction Classification
